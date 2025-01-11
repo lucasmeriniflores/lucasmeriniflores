@@ -1,32 +1,10 @@
-<div align="left">
-  <img src="https://profile-counter.glitch.me/lucasmeriniflores/count.svg?" />
-</div>
-
----
-
-### 🫡 - Hi! Welcome to my GitHub profile
+### 🚪 - Hi! Welcome to my GitHub profile
 
 ### 😀
 
 ### My name is Lucas Merini Flores
 
-### 💻 - Full Stack Developer
-
----
-
-### 📷 - Social Media
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-merini-flores/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCYlTtL9LTsG4bs4hoT6UluQ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/lucas.merini/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
+### 💻 - Dedicated to web development and graphic design.
 
 ---
 
@@ -49,8 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -58,6 +34,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="illustrator logo" />
 </div>
 
 ---
@@ -71,12 +57,5 @@
 
 ---
 
-### 📊 - My GitHub Activity
+<p align="center"><strong>© made by Lucas Merini Flores</strong></p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmeriniflores&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="275" alt="activity graph" />
-</div>
-
----
-
-<p align="center">© made by Lucas Merini Flores</p>
