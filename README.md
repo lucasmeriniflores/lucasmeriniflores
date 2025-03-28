@@ -1,7 +1,7 @@
 ### 🌐 - Portfolio
 
 <div align="left">
-  <a href="https://nevascadevportfolio.netlify.app" target="_blank">
+  <a href="https://nevasca.netlify.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
   </a>
 </div>
